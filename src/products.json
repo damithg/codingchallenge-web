@@ -1,0 +1,23 @@
+[
+    {
+        "productId": 12,
+        "productName": "simple product 01",
+        "productDescription": "Product Descripton Simple",
+        "productCode": "P0123456",
+        "costPrice": 23
+    },
+    {
+        "productId": 15,
+        "productName": "product 03",
+        "productDescription": "2020-10-09T06:07:46",
+        "productCode": "P0123",
+        "costPrice": 20
+    },
+    {
+        "productId": 16,
+        "productName": "My product 03",
+        "productDescription": "Product Descripton Simple",
+        "productCode": "P016",
+        "costPrice": 113
+    }
+]
